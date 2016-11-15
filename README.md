@@ -16,12 +16,18 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-1.png">
 </p>
 
+![](https://github.com/patimakorn54/LAB-10/blob/master/imgs/Capture1.JPG?raw=true)
+
 
 ## การวาดเส้นตรงด้วย pen style และ brush
 * [PenType Enumeration](https://msdn.microsoft.com/en-us/library/system.drawing.drawing2d.pentype(v=vs.110).aspx)
  <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-2.png">
 </p>
+
+
+![](https://github.com/patimakorn54/LAB-10/blob/master/imgs/Capture2.JPG?raw=true)
+
 
 ## การกำหนดจุดปลายของเส้นตรงด้วย style แบบต่างๆ
 
@@ -31,26 +37,49 @@
 </p>
 
 
+
+![](https://github.com/patimakorn54/LAB-10/blob/master/imgs/Capture3.JPG?raw=true)
+
+
 ##การวาดเส้นโค้ง
 การวาดเส้นโค้ง ทำได้โดยการกำหนดจุดไว้ใน array ของ point แล้วส่งให้กับฟังก์ชัน DrawCurve ดังตัวอย่างต่อไปนี้
 <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-4.png">
 </p>
 
+
+
+![](https://github.com/patimakorn54/LAB-10/blob/master/imgs/Capture4.JPG?raw=true)
+
+
 ## การวาดเส้นโค้งด้วย Graphics path
  <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-5.png">
 </p> 
+
+
+
+![](https://github.com/patimakorn54/LAB-10/blob/master/imgs/Capture5.JPG?raw=true)
+
+
 
 ## การวาดรูปทรงสี่เหลี่ยม
 ### การวาดสี่เหลี่ยมครั้งละรูปเดียว
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-6.png">
 </p> 
+
+
+![](https://github.com/patimakorn54/LAB-10/blob/master/imgs/Capture6.JPG?raw=true)
+
+
 ###การวาดสี่เหลี่ยมพร้อมกันครั้งละหลายๆ รูป
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-7.png">
 </p> 
+
+
+![](https://github.com/patimakorn54/LAB-10/blob/master/imgs/Capture7.JPG?raw=true)
 
 
 ## การวาดวงกลมและวงรี
@@ -59,22 +88,45 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-8.png">
 </p> 
 
+
+
+![](https://github.com/patimakorn54/LAB-10/blob/master/imgs/Capture8.JPG?raw=true)
+
+
 ## การวาดส่วนโค้ง (Arc)
    <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-9.png">
 </p> 
+
+![](https://github.com/patimakorn54/LAB-10/blob/master/imgs/Capture9.JPG?raw=true)
+
+
+
 ## การวาดรูป Pie
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-10.png">
 </p>  
+
+
+
+![](https://github.com/patimakorn54/LAB-10/blob/master/imgs/Capture10.JPG?raw=true)
+
 
 ## การสร้าง graphics path จากรูปต่างๆ 
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-11.png">
 </p>  
 
+
+![](https://github.com/patimakorn54/LAB-10/blob/master/imgs/Capture11.JPG?raw=true)
+
+
 #แบบฝึกหัด
 ให้วาดรูปวิว โดยใช้รูปร่างต่างๆ ที่ทำการทดลองใน Lab นี้
+
+
+![](https://github.com/patimakorn54/LAB-10/blob/master/imgs/Capture12.JPG?raw=true)
+
 
 ##เอกสารอ้างอิง
 ### [Graphics Methods](https://msdn.microsoft.com/en-us/library/system.drawing.graphics_methods(v=vs.110).aspx)
